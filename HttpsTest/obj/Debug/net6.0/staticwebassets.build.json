@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KZm/Fp5KGXI/B2CjSquf82IMFRZXLyxSnDlRyWMNt+c=",
+  "Source": "HttpsTest",
+  "BasePath": "_content/HttpsTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
